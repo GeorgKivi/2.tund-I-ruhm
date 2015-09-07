@@ -35,3 +35,11 @@
     echo "õnne";
 
 ?>
+
+<br>
+
+<?php
+
+    // kuupäev - date
+    echo date("l, j F Y e");
+?>
